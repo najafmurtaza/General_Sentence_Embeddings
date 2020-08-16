@@ -28,6 +28,7 @@ Benchmarks using [SentEval](https://github.com/facebookresearch/SentEval/) are c
 * [Gesen](https://github.com/Maluuba/gensen)
 * [sentence-transformers](https://github.com/UKPLab/sentence-transformers)
 * [InferSent](https://github.com/facebookresearch/InferSent)
+* [Skip-Thought](https://github.com/ryankiros/skip-thoughts)
 * [SBert](https://github.com/BinWang28/SBERT-WK-Sentence-Embedding)
 * [Universal Sentence Encoder](https://arxiv.org/abs/1803.11175)
  
