@@ -24,7 +24,7 @@ model = AutoModel.from_pretrained("distilbert-base-uncased")
 model.eval()
 
 # max_length depends on choosen network, it can't be greater than the network's max_length.
-# max_length=512 means 512 word pieces which are around 400-500 english words.
+# max_length=512 means 512 word pieces which are around 300-400 english words.
 # max_length=128(word pieces) is used most of the time.
 encoded_input = tokenizer(sentences, padding=True, truncation=True, max_length=128, return_tensors='pt')
 
