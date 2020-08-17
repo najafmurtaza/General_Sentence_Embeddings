@@ -31,6 +31,8 @@ Benchmarks using [SentEval](https://github.com/facebookresearch/SentEval/) are c
 * [Skip-Thought](https://github.com/ryankiros/skip-thoughts)
 * [SBert](https://github.com/BinWang28/SBERT-WK-Sentence-Embedding)
 * [Universal Sentence Encoder](https://arxiv.org/abs/1803.11175)
+* [Flair](https://github.com/flairNLP/flair)
+* [AdaptNLP](https://github.com/Novetta/adaptnlp)
  
 ## Note
 **This repo is inspired by [sentence-transformers](https://github.com/UKPLab/sentence-transformers). The pytorch code is from their repo.**
